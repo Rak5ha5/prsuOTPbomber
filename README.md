@@ -1,6 +1,9 @@
 # prsuOTPbomber
 This is a PRSU OTP Bomber, Who keeps sending OTPs to the victim continuously. This is just for a moment fun please don't misuse it.
 # Note : The android version is released, check out on my this repository
+Download PRSU otp bomber applicaiton with this link
+https://drive.google.com/file/d/1zcpWoHOT4XQC13olUqphDpOpP37VJrAY/view?usp=drive_link
+
 Note : I added my new verison of this tool with GUI interface for windows check it and use it, for this version you don't need to install any software.
 
 Note : For prsuOTPbomber_CLI.py, First of all install requirements, Enter this Command "pip install -r requirements.txt requests".
