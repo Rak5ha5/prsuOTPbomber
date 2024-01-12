@@ -6,8 +6,7 @@ Note : I added my new verison of this tool with GUI interface for windows check 
 Note : For prsuOTPbomber_CLI.py, First of all install requirements, Enter this Command "pip install -r requirements.txt requests".
 # Screenshots :
 1) Android apk veriosn of Tool :
-
-＜img src="[[Paste Your Link Here](https://github.com/Rak5ha5/prsuOTPbomber/assets/145470189/3b03e641-4cdd-4b98-98c3-9cb1a4f4fb12)](https://github.com/Rak5ha5/prsuOTPbomber/assets/145470189/3b03e641-4cdd-4b98-98c3-9cb1a4f4fb12)" width="500" height="300"＞
+＜img src="https://github.com/Rak5ha5/prsuOTPbomber/assets/145470189/3b03e641-4cdd-4b98-98c3-9cb1a4f4fb12" width="500" height="300"＞
 ![androidss](https://github.com/Rak5ha5/prsuOTPbomber/assets/145470189/3b03e641-4cdd-4b98-98c3-9cb1a4f4fb12)
 
 
