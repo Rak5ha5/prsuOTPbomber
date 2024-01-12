@@ -7,8 +7,6 @@ Note : For prsuOTPbomber_CLI.py, First of all install requirements, Enter this C
 # Screenshots :
 1) Android apk veriosn of Tool :
 ![androidss](https://github.com/Rak5ha5/prsuOTPbomber/assets/145470189/3b03e641-4cdd-4b98-98c3-9cb1a4f4fb12)
-
-
 3) GUI Windows veriosn of Tool : 
 ![i2 (2)](https://github.com/Rak5ha5/prsuOTPbomber/assets/145470189/762e7345-704f-4145-aa67-cfafb8d5a3dd)
 4) And this is CLI version of Tool : 
